@@ -1,1 +1,1 @@
-# Built Admin Dashboard using Mern Stack. 
+# Modern Full Stack Admin Dashboard using MERN
